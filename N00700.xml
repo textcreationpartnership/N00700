@@ -117,9 +117,10 @@
    <text xml:lang="eng">
       <body>
          <div type="appeal">
-            <pb facs="tcp:000846_0000_0FABA13401046FE0" rendition="simple:additions"/>
+            <pb facs="unknown:000846_0000_0FABA13401046FE0"
+                rendition="simple:additions"/>
             <pb n="1"
-                facs="tcp:000846_0001_0FABA1345A240C10"
+                facs="unknown:000846_0001_0FABA1345A240C10"
                 rendition="simple:additions"/>
             <head>The Remonſtrance of ſeveral of the Repreſentatives for ſeveral Counties of the Province of <hi>New-York</hi> being Members of the preſent Aſſembly. Offered to the Conſideration of the Houſe.</head>
             <p>THat the Remonſtrants are fairly and legally choſen and returned as Repreſenta<g ref="char:EOLhyphen"/>tives of their Country, without any diſpute about their Elections</p>
@@ -160,7 +161,7 @@
             <head type="sub">The Humble Petition of ſeveral of the Repreſentatives for ſeveral Counties of this Province, being Members of the preſent Aſſembly.</head>
             <opener>Humbly Sheweth,</opener>
             <p>THat your Petitioners did this day offer the annexed Remonſtrance to the Conſider<g ref="char:EOLhyphen"/>ation of the Houſe of Repreſentatives, but by the Violence of the Speaker, and the Votes of him and thoſe others unjuſtly returned by the Sheriffs, all Relief and Satisfaction was denyed to be given to your Petitioners, and the ſaid Remonſtrance was rejected; on which your Petitioners did with-draw themſelves, reſolving not to ſit and act, and betray the Liberties of the People with ſuch Perſons whoſe Guilt makes
-<pb n="2" facs="tcp:000846_0002_0FABA1369A5DC180"/>
+<pb n="2" facs="unknown:000846_0002_0FABA1369A5DC180"/>
 them afraid of a fair Scrutiny before your Excellency &amp; Council; and your Petitioners being ſix in Number, and three other Members of the Houſe giving their Votes, That the ſaid Remonſtrance ſhould not be rejected, there are (with the ſaid unjuſtly returned Members) but <hi>Ten</hi> Perſons againſt <hi>Nine,</hi> which ten Perſons, as we are well informed (to juſtifie themſelves) deſign to impriſon your Petitioners, and to act without them, againſt the Rules of Law and Reaſon, and contrary to the Rights of the People, whom your Petitioners do repreſent.</p>
             <p>Your Petitioners do therefore humbly pray your Excellency, who has been an eminent Sufferer for your Zeal for the Laws and Liberties of <hi>England,</hi> that your Petitioners may be protected from impriſonment by the Speaker and other Members, who have no juſt Right to ſit or be Members of the Houſe, but who have made themſelves a major-Vote by the greateſt Violence and Injuſtice; and that you would pleaſe, ſince the ſaid ſitting Members will not ſubmit their Cauſe (as is deſired in the ſaid Remonſtrance) to the Determination of your Excellency and Council, to Diſſolve the ſaid Aſſembly, and not permit Laws to be paſſed by them, to oblige the ſeveral Counties who have no Re<g ref="char:EOLhyphen"/>preſentatives amongſt them, and who cannot in Honour, Conſcience and Juſtice joyn with ſuch who Legally repreſent nothing but the Corruption of the Sheriffs, made in the late male Adminiſtration of Government, by which they were returned Members, &amp; their own Malice and Artifice ſince admitted into the Houſe; and your Petitioners humbly ſubmit themſelves and their Cauſe to the Determination of your Excellency &amp; Council, before whom they are ready to appear to juſtifie the Reſpect, Honour and Obedience they will always pay to your Excellency and Government, and to demonſtrate the Reaſonableneſs of theſe their Proceedings. And your Petitioners ſhall ever Pray, <hi>&amp;c</hi>
             </p>
@@ -224,7 +225,7 @@ them afraid of a fair Scrutiny before your Excellency &amp; Council; and your Pe
          </div>
          <div type="protestation">
             <pb n="3"
-                facs="tcp:000846_0003_0FABA1388769FEB8"
+                facs="unknown:000846_0003_0FABA1388769FEB8"
                 rendition="simple:additions"/>
             <head>To his Excellency <hi>Richard</hi> Earl of <hi>Bellomont,</hi> Captain General, Governour in chief, and Vice-Admiral of his Majeſties Province of <hi>New-York,</hi> &amp;c. and the Honourable Council of the ſame.</head>
             <head type="sub">The Humble Proteſtation and Declaration of ſeveral of the Members of the preſent Aſſembly of <hi>New-York.</hi>
@@ -265,7 +266,7 @@ them afraid of a fair Scrutiny before your Excellency &amp; Council; and your Pe
          </div>
          <div type="report_of_proceedings">
             <pb n="4"
-                facs="tcp:000846_0004_0FABA138DAAD9318"
+                facs="unknown:000846_0004_0FABA138DAAD9318"
                 rendition="simple:additions"/>
             <head>At a Council held at <hi>New-York</hi> the <hi>14</hi>th of <hi>June, 1698.</hi> Preſent His Excellency <hi>Richard</hi> Earl of <hi>Bellomont,</hi> &amp;c.
 <list>
